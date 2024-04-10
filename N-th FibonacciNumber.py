@@ -20,3 +20,7 @@ def find_number_fibonacci(n):
 number_user = int(input("Please enter the desired number: "))
 result = find_number_fibonacci(number_user)
 print("The Nth number of the Fibonacci series: ", result)
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
